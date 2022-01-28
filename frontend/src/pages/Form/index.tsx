@@ -4,8 +4,8 @@ function Form() {
 
     const movie = {
         id: 1,
-        image: "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg",
-        title: "The Witcher",
+        image: "https://www.themoviedb.org/t/p/original/6JsrBPjD3vbQLj6TGx5m4Qv4gcO.jpg",
+        title: "Lagoa Azul",
         count: 2,
         score: 4.5
     };
